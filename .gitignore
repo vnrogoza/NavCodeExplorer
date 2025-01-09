@@ -1,0 +1,13 @@
+*.txt
+*.xml
+.ipynb_checkpoints/
+__pycache__/
+other/
+*.sdf
+*.sln
+*.suo
+bin/
+bin64/
+arm64/
+*.zip
+*.bak
